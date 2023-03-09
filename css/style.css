@@ -1,0 +1,25 @@
+body {
+    background: #FFCC00;
+}
+h1 {color: rebeccapurple;
+    background:yellow;
+    text-align: center;
+}
+img {
+    max-width: 100%;
+}
+
+li {
+    color: red;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.important {
+    position: relative;
+    top: 40px;
+    left: 400px
+    width: 30%
+    border: 1px solid purple;
+    background: #FFF;
+}
